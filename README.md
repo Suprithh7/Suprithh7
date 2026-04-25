@@ -1,20 +1,33 @@
-<!-- ============================================================
+<!-- ═══════════════════════════════════════════════════════════════
      SUPRITHH7 — GitHub Profile README
-     Dark Terminal / Matrix Theme
-     ============================================================ -->
+     Theme: Dark Cyber / Neon Slate
+     ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1f2a,100:0a0a0f&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
+</div>
 
 <div align="center">
 
 ```
-███████╗██╗   ██╗██████╗ ██████╗ ██╗████████╗██╗  ██╗
-██╔════╝██║   ██║██╔══██╗██╔══██╗██║╚══██╔══╝██║  ██║
-███████╗██║   ██║██████╔╝██████╔╝██║   ██║   ███████║
-╚════██║██║   ██║██╔═══╝ ██╔══██╗██║   ██║   ██╔══██║
-███████║╚██████╔╝██║     ██║  ██║██║   ██║   ██║  ██║
-╚══════╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+ ░██████╗██╗░░░██╗██████╗░██████╗░██╗████████╗██╗░░██╗
+ ██╔════╝██║░░░██║██╔══██╗██╔══██╗██║╚══██╔══╝██║░░██║
+ ╚█████╗░██║░░░██║██████╔╝██████╔╝██║░░░██║░░░███████║
+ ░╚═══██╗██║░░░██║██╔═══╝░██╔══██╗██║░░░██║░░░██╔══██║
+ ██████╔╝╚██████╔╝██║░░░░░██║░░██║██║░░░██║░░░██║░░██║
+ ╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=AIML+Engineer+%7C+Fintech+Builder+%7C+Systems+Thinker;Building+at+the+intersection+of+AI+%26+Finance;DP+%7C+Distributed+Systems+%7C+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=680&lines=Backend+Engineer+%7C+Cloud+%26+Distributed+Systems;DSA+%7C+System+Design+%7C+APIs+at+Scale;Full+Stack+%7C+Building+things+that+actually+ship;Bengaluru+%E2%86%92+Everywhere)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a0a0f?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/suprithh7)
+[![Twitter/X](https://img.shields.io/badge/X_%2F_Twitter-%230a0a0f?style=for-the-badge&logo=x&logoColor=00E5FF)](https://x.com/suprithcodes7_)
+[![Instagram](https://img.shields.io/badge/Instagram-%230a0a0f?style=for-the-badge&logo=instagram&logoColor=00E5FF)](https://www.instagram.com/suprithhh._)
+[![GitHub](https://img.shields.io/badge/GitHub-%230a0a0f?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Suprithh7)
 
 </div>
 
@@ -22,54 +35,83 @@
 
 ## `$ whoami`
 
-```bash
-> Loading profile... [████████████████████] 100%
-
-  Name     : Suprith
-  Role     : AIML Engineering Student
-  Focus    : Algorithms · Fintech · Distributed Systems · AI/ML
-  Status   : Building in public 🟢
-  Location : Bengaluru, India
+```yaml
+┌─────────────────────────────────────────────────────────────┐
+│                   SYSTEM IDENTITY BLOCK                      │
+├──────────────┬──────────────────────────────────────────────┤
+│ name         │ Suprith                                       │
+│ role         │ Backend Engineer · Cloud & Distributed Sys    │
+│ targeting    │ SWE · Backend · Cloud Infrastructure roles    │
+│ core         │ DSA · System Design · APIs · Databases        │
+│ secondary    │ Full Stack · AI-integrated systems            │
+│ location     │ Bengaluru, India                              │
+│ status       │ 🟢 building · learning · shipping             │
+└──────────────┴──────────────────────────────────────────────┘
 ```
 
-> Building at the intersection of **algorithms**, **distributed systems**, and **finance**.  
-> I care about theoretical rigor *and* real-world quantifiable results.
+> I build backend systems that scale — clean APIs, efficient data pipelines, and cloud-native architecture.  
+> I think in **algorithms first**, then infrastructure, then product.
 
 ---
 
 ## `$ cat projects.log`
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🟢 **[CivicLens](https://github.com/Suprithh7/CivicLens)** | Full-stack AI platform that democratizes access to government policy — RAG pipeline (FAISS + GPT-4o), deterministic eligibility engine, policy versioning with snapshot-on-write, and blockchain proof-of-awareness. 210+ tests. Built because 73% of eligible citizens never claim benefits they qualify for. | Python · FastAPI · React · FAISS · OpenAI · SQLAlchemy · Polygon |
-| 🔴 **[InfraEye](https://github.com/Suprithh7/InfraEye)** | **Google Solution Challenge** — Multi-modal AI system for municipal inspection prioritization in informal urban settlements. Fuses mobile computer vision, satellite remote sensing, and gradient-boosted risk prediction to flag high-risk infrastructure before it fails. Built to scale urban safety in cities where traditional inspection is impossible. | Python · TensorFlow · XGBoost · Computer Vision · Remote Sensing · Firebase |
-| 🔵 **AlgoVault** *(placeholder)* | Curated collection of algorithm implementations, DP patterns, and system design writeups — built as a personal reference and interview prep resource. Update this with your actual project! | Python · C · Markdown |
+<br/>
+
+> ### 🔵 [CivicLens](https://github.com/Suprithh7/CivicLens) &nbsp;·&nbsp; *Full Stack · Backend · AI-integrated*
+> AI platform democratizing access to government policy at scale. Engineered a **FastAPI async backend** with full policy lifecycle management — upload, versioning (snapshot-on-write), soft delete, and audit trails. Built a **RAG pipeline** (FAISS vector search + GPT-4o) with TTL caching and a deterministic eligibility rule engine. Shipped with 210+ tests, structured logging middleware, and Alembic migrations.
+>
+> `Python` `FastAPI` `SQLAlchemy` `FAISS` `OpenAI` `React` `PostgreSQL` `Polygon`
+
+<br/>
+
+> ### 🔴 [InfraEye](https://github.com/Suprithh7/InfraEye) &nbsp;·&nbsp; *Google Solution Challenge · Cloud · AI*
+> **Google Solution Challenge** — Multi-modal AI system for municipal infrastructure risk prioritization in informal urban settlements. Designed the data pipeline fusing mobile computer vision, satellite remote sensing, and gradient-boosted ML to flag high-risk sites before failure. Cloud-deployed with Firebase backend for real-time field data sync.
+>
+> `Python` `TensorFlow` `XGBoost` `Firebase` `GCP` `Computer Vision` `Remote Sensing`
+
+<br/>
+
+> ### ⚪ **AlgoVault** &nbsp;·&nbsp; *placeholder — update with your project*
+> Curated DSA implementations, DP patterns, and system design writeups — personal reference and interview prep resource.
+>
+> `Python` `C` `Markdown`
 
 ---
 
-## `$ stack.scan --verbose`
+## `$ stack.scan --all`
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=0d0d0d)
-![C](https://img.shields.io/badge/C-00FF88?style=for-the-badge&logo=c&logoColor=0d0d0d)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF88?style=for-the-badge&logo=javascript&logoColor=0d0d0d)
-![SQL](https://img.shields.io/badge/SQL-00cc6a?style=for-the-badge&logo=postgresql&logoColor=0d0d0d)
+#### Languages
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00E5FF)
+![C](https://img.shields.io/badge/C-0a0a0f?style=for-the-badge&logo=c&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=00E5FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=00E5FF)
+![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+![Bash](https://img.shields.io/badge/Bash-0a0a0f?style=for-the-badge&logo=gnubash&logoColor=00E5FF)
 
-**Frameworks & Tools**
+#### Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00E5FF)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=00E5FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=00E5FF)
+![REST](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=postman&logoColor=00E5FF)
 
-![React](https://img.shields.io/badge/React-003322?style=for-the-badge&logo=react&logoColor=00FF88)
-![Node.js](https://img.shields.io/badge/Node.js-003322?style=for-the-badge&logo=nodedotjs&logoColor=00FF88)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-003322?style=for-the-badge&logo=tensorflow&logoColor=00FF88)
-![PyTorch](https://img.shields.io/badge/PyTorch-003322?style=for-the-badge&logo=pytorch&logoColor=00FF88)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003322?style=for-the-badge&logo=postgresql&logoColor=00FF88)
-![Git](https://img.shields.io/badge/Git-003322?style=for-the-badge&logo=git&logoColor=00FF88)
-![Linux](https://img.shields.io/badge/Linux-003322?style=for-the-badge&logo=linux&logoColor=00FF88)
+#### Cloud & DevOps
+![GCP](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=00E5FF)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00E5FF)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00E5FF)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00E5FF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00E5FF)
 
-**APIs & Data**
+#### Full Stack & AI (supporting)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=5eead4)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=5eead4)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=5eead4)
 
-![Binance](https://img.shields.io/badge/Binance_API-001a0d?style=for-the-badge&logo=binance&logoColor=00FF88)
-![Kraken](https://img.shields.io/badge/Kraken_API-001a0d?style=for-the-badge&logo=kraken&logoColor=00FF88)
+</div>
 
 ---
 
@@ -77,15 +119,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suprithh7&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FF88&text_color=00cc6a&icon_color=00FF88&border_color=00ff8840&hide_border=false&count_private=true" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprithh7&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00FF88&text_color=00cc6a&border_color=00ff8840&hide_border=false&langs_count=6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Suprithh7&show_icons=true&bg_color=0a0a0f&title_color=00E5FF&text_color=8892a4&icon_color=00E5FF&border_color=1e2d3d&hide_border=false&count_private=true&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprithh7&layout=compact&bg_color=0a0a0f&title_color=00E5FF&text_color=8892a4&border_color=1e2d3d&hide_border=false&langs_count=6" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Suprithh7&theme=dark&background=0d0d0d&border=00ff8840&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=00cc6a&dates=446655&stroke=00ff8820" />
+<img src="https://streak-stats.demolab.com?user=Suprithh7&background=0a0a0f&border=1e2d3d&ring=00E5FF&fire=00bcd4&currStreakLabel=00E5FF&sideLabels=8892a4&dates=3d5166&stroke=1e2d3d&currStreakNum=00E5FF&sideNums=8892a4" />
 
 </div>
 
@@ -95,19 +137,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suprithh7&bg_color=0d0d0d&color=00FF88&line=00cc6a&point=00FF88&area=true&area_color=00ff8820&hide_border=true" />
-
-</div>
-
----
-
-## `$ connect --open`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/Suprithh7)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suprithh7&bg_color=0a0a0f&color=00E5FF&line=1e3a4f&point=00E5FF&area=true&area_color=00e5ff15&hide_border=true&custom_title=contribution+activity" width="100%"/>
 
 </div>
 
@@ -115,12 +145,14 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1f2a,100:0a0a0f&height=100&section=footer&text=&animation=fadeIn" width="100%"/>
+
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  [ building in public — follow the commits ]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ╔══════════════════════════════════════════════════════════╗
+  ║        backend-first · cloud-native · ship it            ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Suprithh7&color=00ff88&style=flat-square&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Suprithh7&color=00e5ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
