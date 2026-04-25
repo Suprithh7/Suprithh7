@@ -27,8 +27,8 @@
 
   Name     : Suprith
   Role     : AIML Engineering Student
-  Focus    : Algorithms · Fintech · Distributed Systems · AI/ML
-  Status   : Building in public 🟢
+  Focus    : Algorithms · System Design · Distributed Systems · AI/ML
+  Status   : Building in public 
   Location : Bengaluru, India
 ```
 
