@@ -39,13 +39,13 @@
 ┌─────────────────────────────────────────────────────────────┐
 │                   SYSTEM IDENTITY BLOCK                      │
 ├──────────────┬──────────────────────────────────────────────┤
-│ name         │ Suprith                                       │
-│ role         │ Backend Engineer · Cloud & Distributed Sys    │
-│ targeting    │ SWE · Backend · Cloud Infrastructure roles    │
-│ core         │ DSA · System Design · APIs · Databases        │
-│ secondary    │ Full Stack · AI-integrated systems            │
-│ education    │ B.E. AIML · MSRIT, Bengaluru · 2nd Year       │
-│ location     │ Bengaluru, India                              │
+│ Name         │ Suprith                                       │
+│ Role         │ Backend Engineer · Cloud & Distributed Sys    │
+│ Targeting    │ SWE · Backend · Cloud Infrastructure roles    │
+│ Core         │ DSA · System Design · APIs · Databases        │
+│ Secondary    │ Full Stack · AI-integrated systems            │
+│ Education    │ B.E. AIML · MSRIT, Bengaluru · 2nd Year       │
+│ Location     │ Bengaluru, India                              │
 └──────────────┴──────────────────────────────────────────────┘
 ```
 
