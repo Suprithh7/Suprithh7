@@ -27,8 +27,8 @@
 
   Name     : Suprith
   Role     : AIML Engineering Student
-  Focus    : Algorithms · System Design · Distributed Systems · AI/ML
-  Status   : Building in public 
+  Focus    : Algorithms · Fintech · Distributed Systems · AI/ML
+  Status   : Building in public 🟢
   Location : Bengaluru, India
 ```
 
@@ -41,10 +41,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🟢 **[VEGA](https://github.com/Suprithh7/VEGA)** | DP-based Smart Order Routing across fragmented limit order books — DAA course project with formal optimality proofs & Binance/Kraken API validation | Python · DP · Binance API · Kraken API |
-| 🟢 **FluxSync** | CRDT-powered distributed state engine — conflict-free replicated data types for eventual consistency | C · Distributed Systems |
-| 🟢 **Full Stack Lab** | Agentic research assistant — team of 5, full stack delivery | React · Node.js · PostgreSQL |
-| 🔵 **Data Link Layer Simulator** | Character stuffing & bit stuffing framing in C — clean algorithm-aligned implementation | C · Networking |
+| 🟢 **[CivicLens](https://github.com/Suprithh7/CivicLens)** | Full-stack AI platform that democratizes access to government policy — RAG pipeline (FAISS + GPT-4o), deterministic eligibility engine, policy versioning with snapshot-on-write, and blockchain proof-of-awareness. 210+ tests. Built because 73% of eligible citizens never claim benefits they qualify for. | Python · FastAPI · React · FAISS · OpenAI · SQLAlchemy · Polygon |
+| 🔴 **[InfraEye](https://github.com/Suprithh7/InfraEye)** | **Google Solution Challenge** — Multi-modal AI system for municipal inspection prioritization in informal urban settlements. Fuses mobile computer vision, satellite remote sensing, and gradient-boosted risk prediction to flag high-risk infrastructure before it fails. Built to scale urban safety in cities where traditional inspection is impossible. | Python · TensorFlow · XGBoost · Computer Vision · Remote Sensing · Firebase |
+| 🔵 **AlgoVault** *(placeholder)* | Curated collection of algorithm implementations, DP patterns, and system design writeups — built as a personal reference and interview prep resource. Update this with your actual project! | Python · C · Markdown |
 
 ---
 
