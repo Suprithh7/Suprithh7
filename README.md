@@ -4,7 +4,18 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0a0e1a,70:0d1f35,100:000000&height=160&section=header&text=SUPRITH&fontColor=00E5FF&fontSize=65&fontAlignY=55&animation=blinking&stroke=00E5FF&strokeWidth=1&desc=Backend+Engineer+·+Cloud+·+Distributed+Systems&descSize=13&descAlignY=78&descFontFamily=Share+Tech+Mono&descFontColor=4a9eba" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0e1a,100:000000&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
+```
+ ░██████╗██╗░░░██╗██████╗░██████╗░██╗████████╗██╗░░██╗
+ ██╔════╝██║░░░██║██╔══██╗██╔══██╗██║╚══██╔══╝██║░░██║
+ ╚█████╗░██║░░░██║██████╔╝██████╔╝██║░░░██║░░░███████║
+ ░╚═══██╗██║░░░██║██╔═══╝░██╔══██╗██║░░░██║░░░██╔══██║
+ ██████╔╝╚██████╔╝██║░░░░░██║░░██║██║░░░██║░░░██║░░██║
+ ╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝
+```
+
 </div>
 
 <br/>
