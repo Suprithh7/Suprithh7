@@ -72,7 +72,7 @@
 
 <br/>
 
-> ### ⚪ **AlgoVault** &nbsp;·&nbsp; *(Under Progress)*
+> ### ⚪ **AlgoVault** &nbsp;·&nbsp; *placeholder — update with your project*
 > Curated DSA implementations, DP patterns, and system design writeups — personal reference and interview prep resource.
 >
 > `Python` `C` `Markdown`
@@ -85,11 +85,10 @@
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=00E5FF)
-![C](https://img.shields.io/badge/C-0a0a0f?style=for-the-badge&logo=c&logoColor=00E5FF)
+![C++](https://img.shields.io/badge/C++-0a0a0f?style=for-the-badge&logo=cplusplus&logoColor=00E5FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=00E5FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=00E5FF)
 ![SQL](https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
-![Bash](https://img.shields.io/badge/Bash-0a0a0f?style=for-the-badge&logo=gnubash&logoColor=00E5FF)
 
 #### Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF)
