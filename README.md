@@ -72,7 +72,7 @@
 
 <br/>
 
-> ### ⚪ **AlgoVault** &nbsp;·&nbsp; *placeholder — update with your project*
+> ### ⚪ **AlgoVault** &nbsp;·&nbsp; *(Under Progress)*
 > Curated DSA implementations, DP patterns, and system design writeups — personal reference and interview prep resource.
 >
 > `Python` `C` `Markdown`
