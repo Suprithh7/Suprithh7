@@ -49,36 +49,11 @@
 <tr>
 <td width="50%" valign="top">
 
-```yaml
-  ┌─────────────────────────────────────┐
-  │         SYSTEM IDENTITY             │
-  ├─────────────┬───────────────────────┤
-  │ name        │ Suprith               │
-  │ role        │ SWE Intern candidate  │
-  │ focus       │ DSA · System Design   │
-  │             │ Backend Systems       │
-  │ languages   │ C++ · Python · JS     │
-  │ education   │ B.E. AIML · MSRIT     │
-  │             │ Bengaluru · Class '28 │
-  │ location    │ Bengaluru, India      │
-  └─────────────┴───────────────────────┘
-```
+
 
 </td>
 <td width="50%" valign="top">
-
-```yaml
-  ┌─────────────────────────────────────┐
-  │         CURRENT BUILD               │
-  ├─────────────┬───────────────────────┤
-  │ status      │ ● ONLINE              │
-  │ solving     │ DSA · Striver A2Z     │
-  │ learning    │ System Design         │
-  │             │ Computer Networks     │
-  │ building    │ Conduit · LLM gateway │
-  │ available   │ Internships · SWE     │
-  └─────────────┴───────────────────────┘
-```
+`
 
 </td>
 </tr>
