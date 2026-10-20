@@ -43,13 +43,7 @@
 
 <br/>
 
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
 
-
-
-</td>
 <td width="50%" valign="top">
 
 </td>
